@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/runtime": "^7.10.0",
-    "@finoer/finoer-invoke": "^0.0.5",
+    "@finoer/finoer-invoke": "^0.0.7",
     "axios": "^0.19.2",
     "crypto-js": "^4.0.0",
     "phaser": "^3.23.0"
